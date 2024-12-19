@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Список Людей</string>
+    <string name="add_person">Добавить человека</string>
+    <string-array name="first_names">
+        <item>Иван</item>
+        <item>Михаил</item>
+        <item>Анна</item>
+        <item>Ольга</item>
+        <item>Дмитрий</item>
+    </string-array>
+    <string-array name="last_names">
+        <item>Иванов</item>
+        <item>Смирнов</item>
+        <item>Кузнецов</item>
+        <item>Петров</item>
+        <item>Сидоров</item>
+    </string-array>
+</resources>
